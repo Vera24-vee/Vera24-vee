@@ -3,7 +3,7 @@
 I’m Kabwaga Veronica Amooti (Vera24-vee), a Software Developer and **Aspiring Product Manager**.  
 
 - 🔭 I’m currently working on a **Race Management System**  
-- 🌱 I’m currently learning **Product Management** through a certificate program at Refactory Academy 
+- 🌱 I’m recently completed **Product Management** through a certificate program at Refactory Academy 
 - 👯 I’m looking to collaborate on **full-stack web or mobile projects**  
 - 💬 Ask me about **software development, project coordination, or product management**  
 - 📫 How to reach me: kabwagavera@gmail.com  
@@ -11,7 +11,7 @@ I’m Kabwaga Veronica Amooti (Vera24-vee), a Software Developer and **Aspiring 
 ---
 
 # Kabwaga Veronica Amooti 👋
-**Software Developer | Full-Stack Enthusiast | Aspiring Product Manager**
+**Software Developer | Backend Enthusiast | Aspiring Product Manager**
 
 I am passionate about building practical, efficient, and user-friendly web and mobile applications. I enjoy creating solutions that simplify tasks and enhance user experience. I am also keen on growing in **Product Management**, combining technical skills with strategic planning, project coordination, and team collaboration.
 
@@ -19,9 +19,9 @@ I am passionate about building practical, efficient, and user-friendly web and m
 
 ## 💻 Technical Skills
 
-- **Languages & Web Development:** HTML5, CSS3, JavaScript, TypeScript  
+- **Languages & Web Development:** HTML5, CSS3, JavaScript, TypeScript, Vite  
 - **Frameworks & Libraries:** Node.js, Express.js, Vue.js, Nest.js, React Native  
-- **Databases:** MongoDB, PostgreSQL  
+- **Databases:** MongoDB, PostgreSQL, Digital Ocean, Render  
 - **Version Control & Collaboration:** Git, GitHub, Microsoft 365, Google Workspace  
 - **Software Practices:** Agile, Lean, Object-Oriented Programming, Testing, Refactoring  
 - **Other Tools:** WordPress, Tailwind CSS, Pug
@@ -69,6 +69,7 @@ I am passionate about building practical, efficient, and user-friendly web and m
 
 ## 🎓 Education
 
+- **Certificate in Product Management**, Refactory Academy (Aug – Nov 2025)  
 - **Certificate in Software Engineering**, Refactory Academy (Jan – May 2025)  
 - **Bachelor of Social Sciences**, Makerere University (2022)  
 - **Uganda Advanced Certificate of Education**, St. Peter’s Naalya SSS (2018)
