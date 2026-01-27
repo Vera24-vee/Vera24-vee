@@ -80,5 +80,5 @@ I am passionate about building practical, efficient, and user-friendly web and m
 
 - **Email:** kabwagavera@gmail.com 
 - **LinkedIn:** 
-- **GitHub:**
+- **GitHub:**https://github.com/Vera24-vee              
 - **Phone:** +256705508270
