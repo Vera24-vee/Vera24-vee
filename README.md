@@ -1,6 +1,6 @@
 ## Salutations 👋
 
-I’m Kabwaga Veronica Amooti (Vera24-vee), a Software Developer and **Aspiring Product Manager**.  
+I’m Kabwaga Veronica (Vera24-vee), a Software Developer and **Aspiring Product Manager**.  
 
 - 🔭 I’m currently working on a **Race Management System**  
 - 🌱 I’m recently completed **Product Management** through a certificate program at Refactory Academy 
